@@ -1,4 +1,4 @@
-# Palmoria-Project
+# Microsoft Power BI Capstone Project: The Palmoria Group
 A Microsoft Power BI data visualisation report for a Capstone project I did regarding gender inequality within the Palmoria Group.
 
 ## The scenario
