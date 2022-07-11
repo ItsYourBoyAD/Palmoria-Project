@@ -12,7 +12,7 @@ Mr. Shofoluwe decided to recruit you as a HR Analytics expert to analyse the com
 “Now, the future of gender equality in Palmoria lies in your hands” the exact words of Mr. Shofoluwe before he handed the data to you
 
 ## The task
-● Analyse the company data and generate insights that Palmoria management team would need to address
-● Your analysis should be visualized using appropriate charts
-● Your focus should be on gender related issues within the organization and its regions
-● The insights required are based on your own discretion. However, Mr. Gamma as an insider has offered to give you pointers into areas you need to pay attention to
+- Analyse the company data and generate insights that Palmoria management team would need to address
+- Your analysis should be visualized using appropriate charts
+- Your focus should be on gender related issues within the organization and its regions
+- The insights required are based on your own discretion. However, Mr. Gamma as an insider has offered to give you pointers into areas you need to pay attention to
